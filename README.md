@@ -1,5 +1,5 @@
 # OSM_fclass_to_ROAD_CLASS
-This Python code can be used to convert OpenStreetMap's fclass road categories to Esri's ROAD_CLASS values in ArcGIS. This Python code can be used to convert OpenStreetMap's fclass road categories to Esri's ROAD_CLASS values. The definitions for the fclass categories can be found here (page 20). The definition for each ROAD_CLASS value can be found here.
+This Python code can be used to convert OpenStreetMap's fclass road categories to Esri's ROAD_CLASS values in ArcGIS. The definitions for the fclass categories can be found here (page 20). The definition for each ROAD_CLASS value can be found here.
 
 INSTRUCTIONS:
 
