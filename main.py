@@ -1,6 +1,6 @@
 
 '''
-NOTE: Some ROAD_CLASS values do not match a corresponding road fclass and are ommited from this program
+NOTE: Some ROAD_CLASS values do not match a corresponding road fclass and are omitted from this program
 
 Missing ROAD_CLASS values:
 5 (Roundabouts), 11 (Turning arcs), 13 (Escalator), 14 (Elevator), 15 (Pedestrian ramp), #64 (Transit), #128 (Sailing lines)
